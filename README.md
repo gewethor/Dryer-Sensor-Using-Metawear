@@ -8,7 +8,7 @@ What is FlyDry? FlyDry is a new technology designed to help consumers save their
 The task to end laundry skrinkage is by no means small, however it is an achievable goal. The following is a list of projects goals that will be achieved in order to make FlyDry a successful reality. 
  1. Perform intense laundry analytics. Studying average laundry dry time will be done on the following categories of laundry loads. 
     
-    ⋅⋅* Colors, Darks, Whites, Small-Loads, Medium-Loads, and Large-Loads
+    a. Colors, Darks, Whites, Small-Loads, Medium-Loads, and Large-Loads
  2. Create a protective environment for the FlyDry device to prevent it from being harmed in the dryer. 
  3. Create an application with a easy-to-use user interface which allows the consumer to quickly and easily choose their laundry load of choice.
  4. Ensure that the FlyDry device works accurately with the application.
