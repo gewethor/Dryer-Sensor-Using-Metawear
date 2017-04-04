@@ -15,3 +15,12 @@ The task to end laundry skrinkage is by no means small, however it is an achieva
  
 ### Project Merit
 FlyDry is a new technology designed to help consumers save their clothing. With the utilization of IoT and temperature sensing technology, FlyDry determines how long laundry needs to stay in the drier before it risks overheating, causing clothes to shink. This device will save the average consumer from ruining their own clothes. Since this is a common issue that happens to almost everyone, this product can be marketed to the masses. Anyone between the ages of 16-100 will have an interest in this product. 
+  
+# Project Timeline 
+ 
+# Risk List  
+|Risk name (value)  | Impact     | Likelihood | Description | Mitigation |
+|-------------------|------------|------------|-------------|------------|
+| Lack of ad server security (56) | 8 | 7 | The ad server selected for this application has not been secured and accepts malicious submissions from ad partner networks | Ensure that any advertisements are filtered or verified before being allowed access|
+ 
+# Application Requirements
