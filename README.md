@@ -23,4 +23,14 @@ FlyDry is a new technology designed to help consumers save their clothing. With 
 | Malicious popups being inserted into the app (56) | 8 | 7 | The ad server selected for this application has not been secured and accepts malicious submissions from ad partner networks. | Ensure that any advertisements are filtered or verified before being allowed access.|
 | Information is being stolen from the user (25) | 5 | 5 | The ad server selected for this application has not been secured and allows for user information to be stolen | Ensure that any advertisements are filtered or verified before being allowed access.|
  
-# Application Requirements
+# Application Requirements 
+ 
+## User Stories
+
+As Someone who frequently does laundry, I want to know exactly how long it takes my clothes to dry so I can prevent my clothes from shrinking.
+
+As Someone who frequently does laundry, I want to know exactly how long it takes my clothes to dry so I can save time.
+
+As Someone who frequently does laundry, I want to know exactly how long it takes my clothes to dry so I can save on electricity.
+
+## Misuser Stories
