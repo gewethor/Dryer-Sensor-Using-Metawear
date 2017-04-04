@@ -18,7 +18,8 @@ FlyDry is a new technology designed to help consumers save their clothing. With 
   
 # Project Timeline  
  
- ![projected timeline](https://cloud.githubusercontent.com/assets/17163854/24663749/6e510cb4-191e-11e7-80f4-53f115c7a9a6.PNG)
+![projected timeline](https://cloud.githubusercontent.com/assets/17163854/24663855/b321a704-191e-11e7-8255-62cc5d634949.PNG)
+
  
 # Risk List  
 |Risk name (value)  | Impact     | Likelihood | Description | Mitigation |
