@@ -9,8 +9,9 @@ The task to end laundry skrinkage is by no means small, however it is an achieva
      - Colors, Darks, Whites, Small-Loads, Medium-Loads, and Large-Loads
  2. Create a protective environment for the FlyDry device to prevent it from being harmed in the dryer. 
  3. Create an application with a easy-to-use user interface which allows the consumer to quickly and easily choose their laundry load of choice.
- 4. Ensure that the FlyDry device works accurately with the application.
- 5. Perform penetration testing to ensure the application is safe from malicious entities.
+ 4. Ensure that the FlyDry device works accurately with the application. 
+ 5. Test loads of laundry to ensure analytics are accurate with the FlyDry device.
+ 6. Perform penetration testing to ensure the application is safe from malicious entities.
  
 ### Project Merit
 FlyDry is a new technology designed to help consumers save their clothing. With the utilization of IoT and temperature sensing technology, FlyDry determines how long laundry needs to stay in the drier before it risks overheating, causing clothes to shink. This device will save the average consumer from ruining their own clothes. Since this is a common issue that happens to almost everyone, this product can be marketed to the masses. Anyone between the ages of 16-100 will have an interest in this product. 
