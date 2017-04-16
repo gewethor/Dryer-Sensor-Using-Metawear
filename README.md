@@ -34,15 +34,27 @@ FlyDry is a new technology designed to help consumers save their clothing. With 
  
 ## User Stories
 
-As someone who frequently does laundry, I want to know exactly how long it takes my clothes to dry so I can prevent my clothes from shrinking.
+As someone who frequently does laundry, I want to know exactly how long it takes my clothes to dry so I can prevent my clothes from shrinking. 
+ 
+Acceptance Criteria:
 
-As someone who frequently does laundry, I want to know exactly how long it takes my clothes to dry so I can save time.
+As someone who frequently does laundry, I want to be alerted right away when my laundry is done drying so I can save time. 
+ 
+Acceptance Criteria:
 
-As someone who frequently does laundry, I want to know exactly how long it takes my clothes to dry so I can save on electricity.
+As someone who frequently does laundry, I want to know how long it takes each different type of laundry load to dry so I can save on electricity. 
+  
+Acceptance Criteria:
 
 ## Misuser Stories 
-As a black hat hacker, I want to steal the FlyDry user's credentials so I can sell their information online. 
+As a black hat hacker, I want to steal the FlyDry user's credentials so I can sell their information online.  
+
+Mitigation:
  
 As a grey hat hacker, I want to try to inject malicious script into the hybrid app so I can see if my attack worked. 
+ 
+Mitigation:
   
-As someone who wants to wear my siblings' clothes that are too big for me, I want to ruin the FlyDry device so I can wear my siblings' clothes. 
+As someone who wants to wear my siblings' clothes that are too big for me, I want to ruin the FlyDry device so I can wear my siblings' clothes.  
+ 
+Mitigation:
