@@ -87,4 +87,4 @@ Mitigation:
  
 # Architectural Diagram  
  
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://www.lucidchart.com/documents/embeddedchart/c46b7fdf-d022-477f-8f47-45977cb61fc0" id="IO6QCe7CxHki"></iframe></div>
+https://www.lucidchart.com/documents/embeddedchart/c46b7fdf-d022-477f-8f47-45977cb61fc0
