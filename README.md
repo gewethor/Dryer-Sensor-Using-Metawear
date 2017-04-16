@@ -28,7 +28,7 @@ FlyDry is a new technology designed to help consumers save their clothing. With 
 | Information is being stolen from the user/development team (25) | 5 | 5 | The ad server selected for this application has not been secured and allows for user information to be stolen. | Ensure that any advertisements are filtered or verified before being allowed access.|
 | Physical Tampering (18)| 9 | 2 | A malicious entity tampering with the FlyDry device. | Making a note in the instruction sheet to remind users to store their device in a safe space. Ensure the development team keeps the prototype device in a safe space.|      
 | Man-in-the-Middle Attack (21)| 7 | 3 | The user or the development team using insecure Wi-Fi while using the FlyDry application.| Making a note in the instruction sheet to remind users to encrypt their Wi-Fi. Ensure the development team remembers to only use secure Wi-Fi. | 
-| Bluetooth Sniffing (30)| 6 | 5 | A malicious entity monitors the traffic to and from the FlyDry device. | Making a note in the instruction sheet to remind users to turn their Bluetooth connection when FlyDry is not being used. Also to turn the device to a hidden setting if at all possible. |  
+| Bluetooth Sniffing (30)| 6 | 5 | A malicious entity monitors the traffic to and from the FlyDry device. | Making a note in the instruction sheet to remind users to turn their Bluetooth connection off when FlyDry is not being used. Also to turn the device to a hidden setting if at all possible. |  
  
 # Application Requirements 
  
@@ -55,15 +55,26 @@ As someone who frequently does laundry, I want to know how long it takes each di
 Acceptance Criteria: 
 - Provide the user multiple (18 to be exact) laundry load combinations to ensure that each type of laundry load is accounted for.
 
-## Misuser Stories 
+## Misuser Stories  
+Title: Stealing User Credentials 
+Description:
 As a black hat hacker, I want to steal the FlyDry user's credentials so I can sell their information online.  
 
-Mitigation:
- 
+Mitigation: 
+- Ensure that any advertisements are filtered or verified before being allowed access.
+- Making a note in the instruction sheet to remind users to encrypt their Wi-Fi. 
+- Making a note in the instruction sheet to remind users to turn their Bluetooth connection off when FlyDry is not being used.
+  
+Title: Inject Malicious Script 
+Description:
 As a grey hat hacker, I want to try to inject malicious script into the hybrid app so I can see if my attack worked. 
  
 Mitigation:
+- Making a note in the instruction sheet to remind users to encrypt their Wi-Fi.
   
+Title: Malicious Sibling
+Description:
 As someone who wants to wear my siblings' clothes that are too big for me, I want to ruin the FlyDry device so I can wear my siblings' clothes.  
  
 Mitigation:
+- Making a note in the instruction sheet to remind users to store their device in a safe space.
