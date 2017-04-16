@@ -84,3 +84,5 @@ As someone who wants to wear my siblings' clothes that are too big for me, I wan
  
 Mitigation:
 - Making a note in the instruction sheet to remind users to store their device in a safe space.
+ 
+# Architectural Diagram 
