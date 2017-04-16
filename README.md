@@ -33,7 +33,8 @@ FlyDry is a new technology designed to help consumers save their clothing. With 
 # Application Requirements 
  
 ## User Stories
-Title: Knowing how long it takes for clothes to dry
+Title: Knowing how long it takes for clothes to dry 
+
 Description:
 As someone who frequently does laundry, I want to know exactly how long it takes my clothes to dry so I can prevent my clothes from shrinking.  
 
@@ -41,14 +42,16 @@ Acceptance Criteria:
 - Send an alert when the clothes have reached their optimal dry time. 
 - Give the user an average time of when the load of laundry should be dry.
  
-Title: Alert ASAP
+Title: Alert ASAP 
+
 Description:
 As someone who frequently does laundry, I want to be alerted right away when my laundry is done drying so I can save time.  
 
 Acceptance Criteria:
 - Send an alert when the clothes have reached their optimal dry time.
  
-Title: Laundry Load Type
+Title: Laundry Load Type 
+
 Description: 
 As someone who frequently does laundry, I want to know how long it takes each different type of laundry load to dry so I can save on electricity.  
 
