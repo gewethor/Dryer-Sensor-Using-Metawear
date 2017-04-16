@@ -56,7 +56,8 @@ Acceptance Criteria:
 - Provide the user multiple (18 to be exact) laundry load combinations to ensure that each type of laundry load is accounted for.
 
 ## Misuser Stories  
-Title: Stealing User Credentials 
+Title: Stealing User Credentials  
+
 Description:
 As a black hat hacker, I want to steal the FlyDry user's credentials so I can sell their information online.  
 
@@ -65,14 +66,16 @@ Mitigation:
 - Making a note in the instruction sheet to remind users to encrypt their Wi-Fi. 
 - Making a note in the instruction sheet to remind users to turn their Bluetooth connection off when FlyDry is not being used.
   
-Title: Inject Malicious Script 
+Title: Inject Malicious Script  
+
 Description:
 As a grey hat hacker, I want to try to inject malicious script into the hybrid app so I can see if my attack worked. 
  
 Mitigation:
 - Making a note in the instruction sheet to remind users to encrypt their Wi-Fi.
   
-Title: Malicious Sibling
+Title: Malicious Sibling 
+
 Description:
 As someone who wants to wear my siblings' clothes that are too big for me, I want to ruin the FlyDry device so I can wear my siblings' clothes.  
  
