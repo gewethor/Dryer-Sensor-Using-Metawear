@@ -99,3 +99,29 @@ https://www.lucidchart.com/documents/embeddedchart/c46b7fdf-d022-477f-8f47-45977
   - Ember CLI
   - PhantomJS
   
+ # Installation
+
+* `git clone <repository-url>` this repository
+* `cd fly-dry`
+* `npm install`
+* `bower install`
+
+# Running / Development
+
+* `ember serve`
+* Visit your app at [http://localhost:4200](http://localhost:4200).
+
+# Code Generators
+
+Make use of the many generators for code, try `ember help generate` for more details
+
+# Running Tests
+
+* `ember test`
+* `ember test --server`
+
+# Building
+
+* `ember build` (development)
+* `ember build --environment production` (production)
+
