@@ -88,3 +88,8 @@ Mitigation:
 # Architectural Diagram  
  
 https://www.lucidchart.com/documents/embeddedchart/c46b7fdf-d022-477f-8f47-45977cb61fc0
+
+# Hardware/Software Requirements 
+
+- Any MbientLab sensor capable of tracking temperature
+- 
