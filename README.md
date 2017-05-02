@@ -91,5 +91,11 @@ https://www.lucidchart.com/documents/embeddedchart/c46b7fdf-d022-477f-8f47-45977
 
 # Hardware/Software Requirements 
 
-- Any MbientLab sensor capable of tracking temperature
-- 
+- Any MbientLab sensor capable of tracking temperature.
+- You will need the following things properly installed on your computer.
+  - Git
+  - Node.js (with NPM)
+  - Bower 
+  - Ember CLI
+  - PhantomJS
+  
